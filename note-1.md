@@ -53,7 +53,7 @@ Given that:
 
 Per OPM guidelines, please either:
 
-1. **Approve August 5-19** based on demonstrated low workload, OR
+1. **Approve August 4-19** based on demonstrated low workload, OR
 
 2. **Provide alternative dates** with supporting data showing lower workload than August's -9.1%, OR
 
