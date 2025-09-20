@@ -90,17 +90,13 @@
    - Basic reference services remain stable
    - Critical services maintain baseline coverage
 
-4. **Strategic Timing Benefits**
-   - Return before September surge (typically +8-10% increase)
-   - Miss the lowest productivity period
-
 ---
 
 ## RECOMMENDATION
 
 Based on comprehensive traffic analysis across all library services:
 
-**Early August (August 5-16) represents the optimal vacation window with:**
+**Early August (August 4-19) represents the optimal vacation window with:**
 - Predictable 9-10% traffic reduction
 - Minimal impact on critical services
 - Historical pattern consistency over 5 years
