@@ -1,4 +1,4 @@
-# Site Traffic Analysis: August Vacation Timing
+# Site Traffic Analysis
 ## Data Analysis Summary (September 2020 - September 2025)
 
 ---
