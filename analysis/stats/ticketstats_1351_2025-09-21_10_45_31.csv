@@ -1,0 +1,62 @@
+﻿"Report for LibAnswers Tickets (generated on 2025-09-21 10:45:31)"
+
+"Total:","262"
+"Filters:"
+"Status:","All"
+"Asked From:","2024-01-01 - 2025-01-01"
+"Queue:","Librarians on Call"
+"Limit By Time:","12 AM - 24 hours"
+"Includes Transfer(s):","-1"
+
+"MONTHLY BREAKDOWN"
+"Queue","Jan 2024","Feb 2024","Mar 2024","Apr 2024","May 2024","Jun 2024","Jul 2024","Aug 2024","Sep 2024","Oct 2024","Nov 2024","Dec 2024","Jan 2025"
+"Librarians on Call","34","22","23","27","36","10","19","9","20","24","25","13","0"
+"Totals","34","22","23","27","36","10","19","9","20","24","25","13","0"
+
+"DAILY DISTRIBUTION"
+"Queue","Mon","Tue","Wed","Thu","Fri","Sat","Sun"
+"Librarians on Call","58","52","55","53","41","2","1"
+"Totals","58","52","55","53","41","2","1"
+
+"HOURLY DISTRIBUTION"
+"Queue","00","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23"
+"Librarians on Call","0","0","0","0","0","1","1","14","20","42","32","32","23","22","26","29","11","5","2","1","0","0","1","0"
+"Totals","0","0","0","0","0","1","1","14","20","42","32","32","23","22","26","29","11","5","2","1","0","0","1","0"
+
+"Source"
+"Queue","Widget","Email","Staff Entry (From Patron)"
+"Librarians on Call","195","26","41"
+"Totals","195","26","41"
+
+"Question Form"
+
+"Librarians on Call: Location"
+"No Response","Bedford VAMC","Boston HCS","Central Western Mass VAMC","Connecticut HCS","Manchester VAMC","Maine HCS","Providence VAMC","White River Junction VAMC","VISN 1 Network Office"
+"39","20","73","12","41","9","33","2","27","6"
+
+"Librarians on Call: Service"
+"No Response","Acquisition & Materiel","Anesthesiology","Audiology & Speech","Business Office","Canteen","Chaplain","Chief of Staff","Clinical Engineering","Clinical Informatics","Dental","Diagnostic Imaging","Director of Patient Care Service","Director's Office","DSS - Decision Support Systems","Education","Facility Management","Fiscal","Geriatrics & Extended Care","GRECC","Human Resources","Infection Control","Information Technology (OI&T)","Laboratory & Pathology","Laundry","Library","Local Management","MAS - Medical Administration","MCCF - Medical Care Cost Recovery","Medical Service","Mental Health","Neurology","Nuclear Medicine","Nursing","Nutrition & Food Service","Optometry","Patient Services","Pharmacy","Police & Security","Primary Care","Psychiatry","Psychology","Public Affairs","Quality Management","Radiology","Recreation","Research & Development","Sensory & Physical Rehabilitation","Social Work","Specialty & Acute Care","Spinal Cord","Surgical Service","Voluntary Service"
+"67","1","0","1","0","0","0","1","0","0","1","0","0","0","0","5","0","0","18","3","0","1","0","2","0","2","0","0","0","5","24","0","0","50","4","0","1","4","0","12","7","2","0","5","1","0","15","5","13","1","3","7","1"
+
+"Librarians on Call: Would you like further Librarian assistance?"
+"No Response","Yes","No"
+"44","101","117"
+
+"Librarians on Call: How can we help?"
+"No Response","How do I?","I have a question.","I need a literature search.","I'm looking for an article/book.","I'd like to suggest you purchase a resource.","It's broken!","I need technical assistance.","None of these."
+"30","11","35","92","73","1","4","8","8"
+
+"Tags"
+"Queue","closed_for_inactivity","Product:Ask a Librarian, LibAnswers, SpringShare","Product:eJournals & eBooks Catalog, 360 Core, Serials Solutions","Product:Knowledge Library, LibGuides, SpringShare","Resource:CINAHL, EBSCOhost","Resource:ClinicalKey, Elsevier","Resource:Embase, Elsevier","Resource:Health & Medical Complete, ProQuest","Resource:MEDLINE, EBSCOhost","Resource:PILOTS, ProQuest","Resource:PsycINFO, EBSCOhost","Resource:PubMed","Resource:SocINDEX, EBSCOhost","Resource:VA Resources","Resource:Web Resources"
+"Librarians on Call","1","1","1","1","16","1","1","1","15","1","5","1","4","2","5"
+"Totals","1","1","1","1","16","1","1","1","15","1","5","1","4","2","5"
+
+"Answerer"
+"Queue","Banick, Cheryl","Casella, Jessie","Coale, Jennifer","Duff, Patrick","Guessferd, Mimi","Martin, Jennifer","Norris, Nathan","Patterson, Jessica","Smith, Jason","Stauffer, Eric","Support, Library"
+"Librarians on Call","24","22","21","49","14","12","25","28","19","2","40"
+"Totals","24","22","21","49","14","12","25","28","19","2","40"
+
+"Turnaround"
+"Queue","0-10 minutes","11-60 minutes","1-12 hours","12-24 hours","1-3 days","3+ days"
+"Librarians on Call","108","42","22","18","31","41"
+"Totals","108","42","22","18","31","41"
