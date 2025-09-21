@@ -95,15 +95,9 @@
 
 ## RECOMMENDATION
 
-Based on comprehensive traffic analysis across all library services:
+Analysis of site-wide traffic (all 14 pages, September 2020–September 2025) shows that August pages combined have a median of 8,089 visits, compared to 8,903 for a typical month — a 9.1% decrease. Recent years show a steady drop in absolute numbers. Based on this history, the forecast for August 2026–2030 suggests a base case of roughly 9,960 visits/month, with worst-case scenarios dipping into the ~7,400 range.
 
-**Early August (August 4-19) represents the optimal vacation window with:**
-- Predictable 9-10% traffic reduction
-- Minimal impact on critical services
-- Historical pattern consistency over 5 years
-- Natural alignment with academic calendar
-
-The data strongly supports this timing as causing the least disruption to library operations and user services.
+Therefore, early August (4-19) continues to represent the lowest-impact window for staff vacations, minimizing workload while preserving service across critical areas.
 
 ---
 
