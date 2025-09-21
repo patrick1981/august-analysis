@@ -72,6 +72,24 @@
 
 ---
 
+## August Forecast
+
+Visits per month; **2026 → 2030**
+
+| Year |  Best |  Base | Worst |
+| ---- | ----: | ----: | ----: |
+| 2026 | 8,223 | 6,451 | 4,679 |
+| 2027 | 7,339 | 5,567 | 3,795 |
+| 2028 | 6,455 | 4,683 | 2,911 |
+| 2029 | 5,571 | 3,799 | 2,027 |
+| 2030 | 4,687 | 2,916 | 1,144 |
+
+### How to read this
+
+* **Base** is the expected August workload if the decade-long trend continues.
+* **Best** assumes upside noise/recovery roughly equal to past upside residuals (80% band).
+* **Worst** assumes downside shocks of a similar magnitude (80% band).
+
 ## VACATION TIMING JUSTIFICATION
 
 ### Why Early August is Optimal:
