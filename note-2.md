@@ -14,14 +14,12 @@ Supervisors are also responsible for planning coverage across the year so both a
 
 Five years of usage data (Sept 2020–Sept 2025) confirm that August is consistently one of our **lowest-demand periods**:
 
-* **Overall site traffic**: \~9.1% below median, \~814 fewer visits/day.
+* **Overall site traffic**: \~9.1% below median usage
 * **Key services**:
-
-  * eJournals/eBooks: **-14.3%**
-  * Databases: **-6.4%**
-  * Ask a Librarian tickets: **-5.2%**
-
-(See Attachments 2–4 for detailed service-level breakdowns.)
+• 814 fewer visits than median.
+• 14.3% reduction in A-Z list usage.
+• 6.4% decrease in database page usage.
+• 5.2% fewer support Ask A librarian tickets.
 
 ---
 
@@ -31,17 +29,27 @@ As the **sole staff member** administering these systems, there is no secondary 
 
 ---
 
-### Request
+**THE OPM GUIDANCE REQUIRES:**
 
-Given:
+Since you've stated workload prevents approval for August 5-20, 2026, per OPM guidelines you must now:
 
-* Documented August workload reductions,
-* Nearly a full year of advance notice, and
-* The absence of any alternative dates with lower workload,
+1. **"Schedule it at some other time"** - Please identify which dates in 2026 would have LOWER workload than August's documented -9.1%.
 
-I respectfully request approval of **August 5–19, 2026**.
+2. **Justify based on actual workload** - Please provide data showing how 814 fewer daily interactions constitutes excessive workload.
 
-If these dates cannot be accommodated, I ask that OPM’s guidance be followed by identifying and providing alternate dates supported by workload data.
+3. **Address the 11-month planning window** - Explain why nearly a full year isn't sufficient time to plan coverage for our historically 2nd-slowest period.
+
+
+Given that:
+• **I submitted this request 11 MONTHS in advance** (September 2025 for August 2026)
+• This provides nearly a full year for workload planning and coverage arrangements
+• I provided comprehensive data showing August has minimal workload every year
+
+Please either:
+
+1. **Approve August 5-20** based on demonstrated low workload, OR
+   
+2. **Document the specific "project related deadlines or workload"** that prevents approval during our 2nd-slowest month with a 11 month planning window.
 
 ---
 
