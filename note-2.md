@@ -16,9 +16,13 @@ Five years of usage data (Sept 2020–Sept 2025) confirm that August is consiste
 
 * **Overall site traffic**: \~9.1% below median usage
 * **Key services**:
+  
 • 814 fewer visits than median.
+
 • 14.3% reduction in A-Z list usage.
+
 • 6.4% decrease in database page usage.
+
 • 5.2% fewer support Ask A librarian tickets.
 
 ---
