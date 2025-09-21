@@ -1,6 +1,6 @@
 # Site Traffic Analysis
 ## Data Analysis Summary (September 2020 - September 2025)
-**All site-wide traffic numbers below (including the 9.1% drop) are from site-wide totals, not per-page medians, which gives the best reflection of workload.**
+**All site-wide traffic numbers below (including the 9.1% drop) are from site-wide totals, which give the best reflection of workload.**
 
 ---
 
