@@ -37,16 +37,16 @@ As the **sole staff member** administering these systems, there is no secondary 
 
 Since you've stated workload prevents approval for August 5-20, 2026, per OPM guidelines you must now:
 
-1. **"Schedule it at some other time"** - Please identify which dates in 2026 would have LOWER workload than August's documented -9.1%.
+1. **Justify based on actual workload** - Please provide data showing how 814 fewer daily interactions constitutes excessive workload.
 
-2. **Justify based on actual workload** - Please provide data showing how 814 fewer daily interactions constitutes excessive workload.
-
-3. **Address the 11-month planning window** - Explain why nearly a full year isn't sufficient time to plan coverage for our historically 2nd-slowest period.
+2.  **Address the 11-month planning window** - Explain why nearly a full year isn't sufficient time to plan coverage for our historically 2nd-slowest period.
 
 
 Given that:
 • **I submitted this request 11 MONTHS in advance** (September 2025 for August 2026)
+
 • This provides nearly a full year for workload planning and coverage arrangements
+
 • I provided comprehensive data showing August has minimal workload every year
 
 Please either:
