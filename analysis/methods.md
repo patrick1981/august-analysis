@@ -1,11 +1,7 @@
-# Data methodology
-
-**Analysis Date:** September 2025  
-**Data Period:** September 2020 – September 2025 (61 months)  
----
-
 ## PURPOSE
 To provide documented, data-driven justification that **August is the lowest-demand month** for IT/web support workload, based on both **website traffic** and **ticketing system data**.
+**Analysis Date:** September 2025  
+**Data Period:** September 2020 – September 2025 (61 months)
 
 ---
 
