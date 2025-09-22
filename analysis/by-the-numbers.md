@@ -24,7 +24,7 @@
 
 ---
 
-### Ticketing System (All Requests)
+### Ticketing System (All Requests Over 5 Years)
 - **Median (all months):** ~350 tickets/month  
 - **Median (August only):** ~143 tickets/month  
 - **Reduction:** ~207 tickets → **−59%**
