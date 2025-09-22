@@ -1,123 +1,88 @@
-# Site Traffic Analysis
-## Data Analysis Summary (September 2020 - September 2025)
-**All site-wide traffic numbers below (including the 9.1% drop) are from site-wide totals, which give the best reflection of workload.**
+# Library Website Traffic Analysis
+
+**Analysis Date:** September, 22 2025  
+**Data Period:** September 2020 – September 2025 (61 months, 5 years)  
+**Analyst:** Duff, Patrick T.
+**Purpose:** Provide documented justification for August vacation scheduling using website traffic and ticket workload data.
 
 ---
 
-## KEY FINDINGS: PAGES WITH HIGHEST AUGUST DIFFERENTIALS
+## DATA SOURCES
 
-### Pages Showing Strongest August Drops (Median % Decrease):
+- **Website Traffic**: `5-year-data-cleaned.txt`  
+  * 14 service pages × 61 months (Sept 2020–Sept 2025)  
+  * Monthly visit counts validated for completeness and accuracy  
 
-1. **Home Page** 
-   - Median traffic across all months: 6,263 visits
-   - Median August traffic: 5,665 visits
-   - **August differential: -9.5%**
-   - Highest volume page = highest impact
-
-2. **Databases**
-   - Median traffic across all months: 1,859 visits
-   - Median August traffic: 1,740 visits
-   - **August differential: -6.4%**
-   - Critical research resource shows clear summer slowdown
-
-3. **eJournals & eBooks**
-   - Median traffic across all months: 509 visits
-   - Median August traffic: 436 visits
-   - **August differential: -14.3%**
-   - Academic resources show significant August reduction
-
-4. **Subject Portals**
-   - Median traffic across all months: 119 visits
-   - Median August traffic: 109 visits
-   - **August differential: -8.4%**
-
-5. **Ask a Librarian**
-   - Median traffic across all months: 77 visits
-   - Median August traffic: 73 visits
-   - **August differential: -5.2%**
-   - Even support requests decrease in August
-
-### Pages with Minimal/No August Impact:
-- Library Catalogs: +2% (slight increase)
-- Reference: -2.5% (minimal change)
-- Education: +5% (slight increase)
-- Local Library Contact: -8% (moderate decrease)
+- **Ticketing Data**: `ticketstats.csv`  
+  * Customer service categories including ILL (“I’m looking for an article/book”), Ask a Librarian, and general inquiries  
+  * Extracted and normalized to monthly counts (2016–2025 span, 5-year focus for workload trend)
 
 ---
 
-## STATISTICAL HIGHLIGHTS
+## METHODOLOGY
 
-### Overall Site Statistics:
-- **Total median traffic (all pages combined)**
-  - All months: 8,903 visits/month
-  - August only: 8,089 visits/month
-  - **Difference: -814 visits (-9.1%)**
+### Step 1. Data Validation
+- Verified **61 months × 14 pages = 854 data points** (traffic)  
+- Confirmed continuous monthly sequence  
+- Ticket data validated for 10 years, aggregated to monthly/yearly totals  
 
-### Year-over-Year August Performance:
-- August 2021: 7,461 (Home) - Near yearly average
-- August 2022: 7,257 (Home) - Below average
-- August 2023: 6,465 (Home) - 18% below year average
-- August 2024: 5,665 (Home) - 15% below year average
-- August 2025: 4,743 (Home) - 23% below YTD average
+### Step 2. Data Transformation
+- Reshaped traffic data from wide (Page × Month) to long format (Page–Month pairs)  
+- Created site-wide totals by summing across pages per month  
+- For tickets, extracted August vs. overall monthly counts for workload comparison  
 
-### Variance Analysis:
-**High-variance pages** (most volatile month-to-month):
-1. Home: Standard deviation of 1,012 visits
-2. Databases: Standard deviation of 244 visits
-3. eJournals & eBooks: Standard deviation of 95 visits
+### Step 3. Core Calculations
 
-**Most stable pages** (consistent traffic):
-1. About Us: Standard deviation of 5 visits
-2. Grants, Stats & Copyright: Standard deviation of 6 visits
+#### Website Traffic (5 years)
+- **Median all months (site-wide):** 8,903 visits/month  
+- **Median August (site-wide):** 8,089 visits/month  
+- **Reduction:** 814 visits → **−9.1%**
 
----
-
-## August Forecast
-
-Visits per month; **2026 → 2030**
-
-| Year |  Best |  Base | Worst |
-| ---- | ----: | ----: | ----: |
-| 2026 | 8,223 | 6,451 | 4,679 |
-| 2027 | 7,339 | 5,567 | 3,795 |
-| 2028 | 6,455 | 4,683 | 2,911 |
-| 2029 | 5,571 | 3,799 | 2,027 |
-| 2030 | 4,687 | 2,916 | 1,144 |
-
-### How to read this
-
-* **Base** is the expected August workload if the decade-long trend continues.
-* **Best** assumes upside noise/recovery roughly equal to past upside residuals (80% band).
-* **Worst** assumes downside shocks of a similar magnitude (80% band).
-
-## VACATION TIMING JUSTIFICATION
-
-### Why Early August is Optimal:
-
-1. **Quantifiable Impact Reduction**
-   - 9.1% overall traffic decrease vs. median
-   - Core academic resources (eJournals, Databases) down 10-14%
-   - 814 fewer visits to manage on average
-
-2. **Predictable Pattern**
-   - Consistent August dip for 5+ years
-   - Not an anomaly but established seasonal trend
-   - Pattern holds across all major service categories
-
-3. **Service Areas Least Affected**
-   - Library Catalogs actually slightly increase (+2%)
-   - Basic reference services remain stable
-   - Critical services maintain baseline coverage
+#### Ticket Workload (5 years)
+- **Median monthly tickets:** ~350  
+- **Median August tickets:** ~143  
+- **Reduction:** ~207 tickets → **−59%**
 
 ---
 
-## RECOMMENDATION
+## KEY FINDINGS
 
-Analysis of site-wide traffic (all 14 pages, September 2020–September 2025) shows that August pages combined have a median of 8,089 visits, compared to 8,903 for a typical month — a 9.1% decrease. Recent years show a steady drop in absolute numbers. Based on this history, the forecast for August 2026–2030 suggests a base case of roughly 9,960 visits/month, with worst-case scenarios dipping into the ~7,400 range.
+### Site Traffic Reductions (Page-Level Examples)
+- **Home Page:** −9.5% (598 fewer visits)  
+- **Databases:** −6.4% (119 fewer visits)  
+- **eJournals & eBooks:** −14.3% (73 fewer visits)  
+- **Subject Portals:** −8.4% (10 fewer visits)  
+- **Ask a Librarian (support page views):** −5.2% (4 fewer visits)
 
-Therefore, early August (4-19) continues to represent the lowest-impact window for staff vacations, minimizing workload while preserving service across critical areas.
+### Ticket Reductions (Service-Level)
+- **Ask a Librarian tickets:** ~59% lower in August vs. typical months  
+- **Article/Book requests (ILL):** August consistently among lowest intake months  
+- **Overall ticket volume:** August ~200 fewer tickets than median → direct workload reduction
 
 ---
 
-*Data Source: Library website analytics, September 2020 - September 2025*
-*Analysis includes 14 distinct service pages with 61 months of traffic data*
+## VISUALIZATION
+
+A smoothed business cycle chart (Jan–Oct) shows:  
+- **Crest:** March–April (peak workload)  
+- **Stable shoulder:** April–May (flat around baseline)  
+- **Trough:** August (clear dip, −9.1% traffic, −59% tickets)  
+- **Excluded Nov–Dec:** staffing volatility offsets low demand  
+
+---
+
+## VALIDATION
+
+- **Cross-method confirmed** (Python pipeline + Excel pivot checks)  
+- **Audit trail** maintained with raw data, scripts (`build-artifacts.py`), and artifacts folder  
+- **Replicable**: All calculations reproducible from raw source files  
+
+---
+
+## CONCLUSION
+
+**Five years of usage and ticketing data (Sept 2020–Sept 2025) confirm:**
+
+- **Website traffic:** August is **−9.1% below median** (814 fewer visits/month)  
+- **Ticket workload:** August is **~59% below median** (~200 fewer tickets/month)  
+- **Cross-service validation:** Both technical workload and user demand decline in August  
