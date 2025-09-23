@@ -21,7 +21,7 @@ I am requesting EAP mediation regarding the handling of my annual leave request 
 ## Key Data (5-Year Analysis)
 - **Site traffic:** ~10% below median usage  
 - **Support tickets:** ~59% reduction (~207 fewer vs. ~350 average)  
-- **August consistently:** Lowest operational demand period annually  
+- **August is consistently the lowest operational demand period annually.**  
 
 ---
 
