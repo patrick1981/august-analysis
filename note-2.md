@@ -12,7 +12,7 @@ I am requesting EAP mediation regarding the handling of my annual leave request 
 - **Revised request:** 96 hours (≈12 workdays)  
 - **Further compromise:** Reduced to **88 hours** (minimum needed for international travel)  
 - **Supervisor response:** Indicated by email that 80 hours would be approved, but no official approval entered into the system; the 88-hour request remains pending for 1.5 pay periods  
-- **Policy inquiry:** September 19, 2025 email asking for justification of an 80-hour ceiling and clarification of August 2026 workload conflicts remains unanswered  
+- **Policy inquiry:** September 19, 2025 email asking for justification of an 80-hour ceiling and clarification of August 2026 workload conflicts remains unanswered. Followed up on 09/26/2026 with detailed breakdown.  
 - **No departmental policy:** There is no written departmental procedure governing extended absences  
 - **Current status:** The 88-hour request remains pending with no approval, denial, or alternative dates offered  
 
